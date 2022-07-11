@@ -1,0 +1,5 @@
+﻿cl : 命令行 warning D9025: 正在重写“/sdl”(用“/GS-”)
+  1_2.c
+D:\Thunder\C_\Data_Struct\Josephu_2\1_2.c(10,2): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\Thunder\C_\Data_Struct\Josephu_2\1_2.c(19,2): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  Josephu_2.vcxproj -> D:\Thunder\C_\Data_Struct\Josephu_2\x64\Debug\Josephu_2.exe
